@@ -8,7 +8,6 @@
     </nav>
 <head>
     <link rel="stylesheet" href="css/style.css">
-    <title>amor fati</title>
 </head>
 <body>
     <!-- <div class="box">
